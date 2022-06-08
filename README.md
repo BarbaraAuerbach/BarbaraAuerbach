@@ -1,3 +1,4 @@
+SOBRE MIM
 - 👋 olá, meu nome é @BarbaraAuerbach
 - :+1: Meu email de contato é barbara.auerbach@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar novas linguagens
